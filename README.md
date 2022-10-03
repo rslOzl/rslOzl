@@ -24,7 +24,7 @@ I’m a software engineer with a middle experience in developing both front-end 
 
 🔭 I’m currently working with **Angular**
 
-🌱 I’m currently learning **ReactJS** and **NestJS**
+🌱 I’m currently learning **ReactJS**  , **NestJS** and **Spring Boot**
 
 
 <br />
