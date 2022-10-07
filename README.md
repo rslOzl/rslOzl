@@ -24,7 +24,10 @@ I’m a software engineer with a middle experience in developing both front-end 
 
 🔭 I’m currently working with **Angular**
 
-🌱 I’m currently learning **ReactJS** , **Spring Boot** 
+🌱 I’m currently learning **
+
+
+JS** , **Spring Boot** 
 
 
 <br />
@@ -58,9 +61,13 @@ I’m a software engineer with a middle experience in developing both front-end 
 ### Interested In Programming Languages and Technology :
 
 <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="java" width="40" height="40"/> </a> 
- <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="./kubernetes.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
+  <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="java" width="40" height="40"/> </a> 
+  <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nuxtjs/nuxtjs-original.svg" alt="java" width="40" height="40"/> </a> 
+    <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="java" width="40" height="40"/> </a> 
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="./jenkins.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
+
+
 
 
 
