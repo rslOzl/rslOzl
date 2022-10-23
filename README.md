@@ -1,6 +1,6 @@
  ### Hi, I'm Resul <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />
  
-I’m a software engineer with a middle experience in developing both front-end and back-end systems. I enjoy working in DevOps technologies like designing CI/CD pipelenes and containerization concepts. I like also to deal with prototype design programs.
+I’m a software engineer with a middle experience in developing both front-end and back-end systems. I like also to deal with prototype design programs.
 
 ### Connect with me:
 <a href="https://www.linkedin.com/in/resul-özel-3710601a1/">
