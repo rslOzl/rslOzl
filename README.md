@@ -1,6 +1,6 @@
  ### Hi, I'm Resul <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />
  
-I’m a software engineer with a middle experience in developing both front-end and back-end systems. I like also to deal with prototype design programs.
+I’m an engineer in developing both front-end and back-end systems. I like also to deal with prototype design programs.
 
 ### Connect with me:
 <a href="https://www.linkedin.com/in/resul-özel-3710601a1/">
@@ -63,9 +63,7 @@ I’m a software engineer with a middle experience in developing both front-end 
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="./kubernetes.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
   <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="java" width="40" height="40"/> </a> 
   <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nuxtjs/nuxtjs-original.svg" alt="java" width="40" height="40"/> </a> 
-    <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="java" width="40" height="40"/> </a> 
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="./jenkins.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-
+   
 
 
 
