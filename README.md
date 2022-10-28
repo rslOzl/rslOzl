@@ -3,7 +3,7 @@
 I’m an engineer in developing both front-end and back-end systems. I like also to deal with prototype design programs.
 
 ### Connect with me:
-<a href="https://www.linkedin.com/in/resul-özel-3710601a1/">
+<a href="https://www.linkedin.com/in/resul-ö-3710601a1/">
  <img align="left" alt="vibhorchaudhary | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 
 </a>
@@ -60,9 +60,8 @@ I’m an engineer in developing both front-end and back-end systems. I like also
 ### Interested In Programming Languages and Technology :
 
 <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="java" width="40" height="40"/> </a> 
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="./kubernetes.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
   <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="java" width="40" height="40"/> </a> 
-  <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nuxtjs/nuxtjs-original.svg" alt="java" width="40" height="40"/> </a> 
+
    
 
 
