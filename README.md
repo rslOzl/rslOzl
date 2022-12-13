@@ -46,9 +46,6 @@ I’m an engineer in developing both front-end and back-end systems. I like also
 
 
  </p>
-<br />
-<br />
-
 
 
 
