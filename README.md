@@ -4,8 +4,7 @@
 
 🔭 I’m currently working with **Angular**
 
-🌱 I’m currently learning  **Nest Js** & **Spring Framework** 
-
+🌱 I’m currently learning  **React Js** & **Spring Framework** 
 
 <br />
 
