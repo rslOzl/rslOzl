@@ -1,5 +1,5 @@
 ### Hi there , I am  Resul
-####  FullStack Developer | Angular | Typescript | Spring Boot | Java SE 
+####  FullStack Developer | Angular | Typescript | Spring Boot
 
 <!-- - 🔭 I’m currently working on  The Frontend Developer Career Path  -->
 - I’m currently learning **ReactJS**
