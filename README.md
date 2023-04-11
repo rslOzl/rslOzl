@@ -2,5 +2,5 @@
 ####  FullStack Developer | Angular | Typescript | Spring Boot
 
 <!-- - 🔭 I’m currently working on  The Frontend Developer Career Path  -->
-- I’m currently learning **ReactJS** && **React Native**
+- I’m currently learning **ReactJS** & **React Native**
 - How to reach me: resulozel@gmail.com
