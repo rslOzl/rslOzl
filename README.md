@@ -1,3 +1,3 @@
 ### Hi there , I am  Resul
-####  FullStack Developer | Angular | Spring Boot | ReactJS
+######  FullStack Developer | Angular | Spring Boot | ReactJS
 
